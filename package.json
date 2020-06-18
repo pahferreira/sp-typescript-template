@@ -1,0 +1,16 @@
+{
+  "name": "cra-template-sp-typescript",
+  "version": "1.0.0",
+  "description": "Typescript Application Template by Stop & Play",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "create-react-app",
+    "template"
+  ],
+  "author": "Pah Ferreira",
+  "license": "MIT"
+}
