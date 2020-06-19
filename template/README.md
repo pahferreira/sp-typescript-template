@@ -9,6 +9,7 @@ First add this to your devDependencies in package.json:
   "@types/react-router-dom": "^5.1.5",
   "@typescript-eslint/eslint-plugin": "^3.3.0",
   "@typescript-eslint/parser": "^3.3.0",
+  "@types/jest": "^25.1.4",
   "eslint-config-prettier": "^6.11.0",
   "eslint-plugin-react": "^7.20.0",
   "prettier": "^2.0.5"
