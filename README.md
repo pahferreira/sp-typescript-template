@@ -14,3 +14,8 @@ Created by Pah Ferreira
 - Material UI Icons
 - Axios
 - JWT Decode
+
+# Testings Libs
+
+- Jest
+- testing-library/react
