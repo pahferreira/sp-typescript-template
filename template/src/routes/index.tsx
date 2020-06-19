@@ -2,13 +2,13 @@ import React, { FC } from 'react'
 import { Switch, BrowserRouter as Router, Route } from 'react-router-dom'
 import PrivateRoute from '../utils/PrivateRoute'
 import paths from './paths'
-import IRoute from '../interfaces/router'
+import TRoute from '../types/router'
 
 const RouterContainer: FC = () => {
   return (
     <Router>
       <Switch>
-        {paths.map((route: IRoute) => {
+        {paths.map((route: TRoute) => {
           if (route.private) {
             return (
               <PrivateRoute
