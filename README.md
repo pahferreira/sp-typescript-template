@@ -1,4 +1,4 @@
-# Typescript Template from Stop & Play Applications
+# SP Teamplate from Stop & Play Applications
 
 Created by Pah Ferreira
 
@@ -10,10 +10,11 @@ Created by Pah Ferreira
 - Formik
 - Yup
 - React Router Dom
-- Material UI
-- Material UI Icons
 - Axios
 - JWT Decode
+- Styled Components
+- Husky
+- React Icons
 
 # Testings Libs
 

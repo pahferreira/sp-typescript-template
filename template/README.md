@@ -1,4 +1,4 @@
-# Project Created with Typescript Stop&Play Template.
+# Project Created with SP Script.
 
 ## Runing the Project
 
@@ -15,7 +15,17 @@ First add this to your devDependencies in package.json:
   "eslint-config-prettier": "^6.11.0",
   "eslint-plugin-react": "^7.20.0",
   "prettier": "^2.0.5"
+  "husky": "^4.2.5",
 }
+```
+After this, add this husky config to your package.json:
+
+```
+  "husky": {
+    "hooks": {
+      "pre-commit": "CI=true npm test"
+    }
+  }
 ```
 
 Then run:
