@@ -1,6 +1,6 @@
 {
   "name": "cra-template-sp-typescript",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "SP Typescript Template for Create React App.",
   "main": "template.json",
   "scripts": {

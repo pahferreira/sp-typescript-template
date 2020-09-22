@@ -1,4 +1,4 @@
-# SP Teamplate from Stop & Play Applications
+# SP Template from Stop & Play Applications
 
 Created by Pah Ferreira
 
