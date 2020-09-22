@@ -1,4 +1,3 @@
-import { EGlobalActions } from '../enums/actions'
 import { TState as TAuthState } from '../types/auth'
 
 export type TStore = {
@@ -9,3 +8,8 @@ export type TAction = {
   type: EGlobalActions | string
   payload: any
 }
+
+export enum EGlobalActions {
+  RESET = 'GLOBAL/RESET'
+}
+

@@ -1,10 +1,11 @@
 import React, { FC } from 'react'
+import { Container } from './styled'
 
 const Home: FC = () => {
   return (
-    <div>
-      <h1>Welcome to SP Template with Typescript!</h1>
-    </div>
+    <Container>
+      Welcome to Homepage!
+    </Container>
   )
 }
 

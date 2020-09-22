@@ -1,6 +1,5 @@
 import { combineReducers } from 'redux'
-import { TAction, TStore } from '../../types/storage'
-import { EGlobalActions } from '../../enums/actions'
+import { TAction, TStore, EGlobalActions } from 'types/storage'
 
 // Reducers
 import auth from './auth'
